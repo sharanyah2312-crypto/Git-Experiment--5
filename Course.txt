@@ -1,0 +1,8 @@
+DSA
+DDCO 
+MATHS
+OOPS
+OS
+GIT Lab
+OOPS Lab
+DSA Lab
